@@ -1,0 +1,47 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+h1, h2, h3 {
+    letter-spacing: 0.2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+.nav {
+    padding: 1em;
+}
+
+.nav .backBtn {
+    background-color: black;
+    padding: 0.3em 0.6em 0.3em 0.6em;
+    border-radius: 0.2em;
+    color: white;
+}
+
+.nav .backBtn:hover {
+    background-color: white;
+    border: solid black 0.1em;
+    color: black;
+}
+
+.main-container {
+    width: 60%;
+    margin: auto;
+}
+
+.illustration {
+    width: 60%;
+    margin: auto;
+}
+
+.illustration img {
+    width: 100%;
+}
